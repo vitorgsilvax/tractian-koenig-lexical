@@ -1,7 +1,7 @@
 {
   "name": "@tractian/koenig-lexical",
   "version": "0.1.0",
-  "repository": "https://github.com/TryGhost/Koenig/tree/master/packages/koenig-lexical",
+  "repository": "https://github.com/vitorgsilvax/tractian-koenig-lexical",
   "author": "Tractian",
   "license": "MIT",
   "type": "module",
